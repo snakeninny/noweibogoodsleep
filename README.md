@@ -1,3 +1,3 @@
-noweibogoodsleep (An example of using SBAlertItem on SpringBoard)
+noweibogoodsleep
 ================
 Stop refreshing WeiBo when it's late at night!
