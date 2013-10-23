@@ -1,0 +1,10 @@
+Package: com.naken.noweibogoodsleep
+Name: NoWeiBo=GoodSleep
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Stop refreshing WeiBo when it's late at night!
+Maintainer: snakeninny
+Author: snakeninny
+Homepage: http://ying.lu
+Section: Tweaks
